@@ -1,0 +1,35 @@
+--hello if you have access to this file this is the format
+-- "namehere" -- make sure put there rank in the correct spot, aka premium and to state a reason with these 2 little dashes.
+
+getgenv().SolarList = {
+
+  Premium = {
+    "FearHollowx",
+    "ripbozoimbetter",
+    "snowbunnyreal",
+    "15KJoazxy",
+    "stupiedbilly",
+    "Honkey275974",
+    "FireDragon1562",
+    "VastStitch",
+    "christopherwcox",
+    "BK_SGV",
+    "UnobtainableCircle",
+    "MmMarcosm",
+    "PermanentExpo",
+    "Spideypie15",
+    "dylanfoxuk",
+    "stardome9",
+    },
+    
+    Admins = {
+    "tymekthestalker",
+    "11moos11",
+    },
+    
+    Owner = {
+    "twistedworId",
+    "Jerhimibaseballpro",
+    "pianodano",
+    },
+}
