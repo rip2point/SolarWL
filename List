@@ -33,3 +33,5 @@ getgenv().SolarList = {
     "pianodano",
     },
 }
+
+return getgenv().SolarList
