@@ -34,4 +34,4 @@ getgenv().SolarList = {
     },
 }
 
-return getgenv().SolarList
+
